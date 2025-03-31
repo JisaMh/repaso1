@@ -2,6 +2,6 @@
 ## Encabeza 2
 ### Encabeza 3
 
-*texto cursiva*
-**texto negrilla**
-***texto negrita y cursiva***
+- *texto cursiva*
+- **texto negrilla**
+- ***texto negrita y cursiva***
