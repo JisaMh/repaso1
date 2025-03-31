@@ -9,3 +9,5 @@
 1.  *texto cursiva*
 2.  **texto negrilla**
 3.  ***texto negrita y cursiva***
+
+[Clase](https://catfact.ninja/facts)
