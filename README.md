@@ -31,3 +31,6 @@ print("Web 3")
 |Nombre  |Edad  |
 |--------|------|
 |Pato    |12    |
+|Papa    |12    |
+|Pepe    |12    |
+|Pablo    |12    |
