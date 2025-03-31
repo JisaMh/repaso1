@@ -36,3 +36,5 @@ print("Web 3")
 |Pablo    |12    |
 
 > Programacion web 3
+- [x] Tarea 1
+- [ ] Tarea 2
